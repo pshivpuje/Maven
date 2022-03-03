@@ -96,7 +96,7 @@
    <executions>
         <execution>
             <goals>
-                <goal>properties</goal>
+                <goal>report</goal>
              </goals>
           </execution>
       </executions>
